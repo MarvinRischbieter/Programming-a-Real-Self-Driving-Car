@@ -20,7 +20,7 @@ Project leader:
 <table style="border-collapse: collapse; border: none;">
 <tr>
     <td>Lai Yiu Ming, Tom</td>
-    <td>ymlai87416@gmail.com</td>
+    <td>-</td>
 </tr>
 </table>
 
@@ -28,19 +28,19 @@ Members:
 <table style="border-collapse: collapse; border: none;">
 <tr>
     <td>Muhammand Hassan</td>
-    <td>hassan.nust@gmail.com</td>
+    <td>-</td>
 </tr>
 <tr>
     <td>Emre Sezginalp</td>
-    <td>emre.sezginalp@gmail.com</td>
+    <td>-</td>
 </tr>
 <tr>
     <td>Damian Finnerty</td>
-    <td>damfinn@gmail.com</td>
+    <td>-</td>
 </tr>
 <tr>
     <td>Marvin Rischbieter</td>
-    <td>marv.ris@gmail.com</td>
+    <td>-</td>
 </tr>
 </table>
 
