@@ -1,7 +1,7 @@
 # Udacity Car Capstone project 
 
-Please download the traffic light detection model from here: https://goo.gl/xssBmm and copy it to ./model/sim_traffic_light_detector
-You can find the Rosbag Result File here: https://goo.gl/F5htPd
+*Please download the traffic light detection model from here: https://goo.gl/xssBmm and copy it to ./model/sim_traffic_light_detector
+*You can find the Rosbag Result File here: https://goo.gl/F5htPd
 
 
 [//]: # (Image References)
